@@ -1,5 +1,5 @@
 """
-Seagate Manufacturing Data Generator
+Manufacturing Data Generator
 Author: DiHao Fu
 Generate realistic manufacturing data for analysis
 """
@@ -9,7 +9,7 @@ import numpy as np
 from datetime import datetime, timedelta
 import os
 
-print("=== Seagate Manufacturing Data Generator ===")
+print("===  Manufacturing Data Generator ===")
 
 # 1. 生成时间维度数据
 dates = pd.date_range(start='2024-01-01', end='2024-03-31', freq='H')
