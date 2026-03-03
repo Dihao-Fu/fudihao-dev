@@ -1,4 +1,4 @@
- 🏭 Seagate Manufacturing Intelligence Platform
+ 🏭  Manufacturing Intelligence Platform
 
 > A big data analytics platform for predictive maintenance and quality optimization in manufacturing environments.
 
@@ -8,7 +8,7 @@
 
 ## 🎯 Project Overview
 
-This project simulates a manufacturing data intelligence platform similar to what Seagate uses for:
+This project simulates a manufacturing data intelligence platform similar to what industrial clients uses for:
 - **Predictive Maintenance**: Forecasting equipment failures before they happen
 - **Quality Analytics**: Monitoring product quality trends and identifying issues
 - **Production Optimization**: Analyzing manufacturing efficiency and bottlenecks
@@ -31,10 +31,6 @@ This project uses:
 3. **Quality Test Results** - Pass/fail metrics with detailed measurements
 
 ## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/Dihao-Fu/seagate-manufacturing-intelligence.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -91,8 +87,7 @@ GitHub: @Dihao-Fu
 
 Focus: Data Engineering, SQL, Manufacturing Analytics
 
-Target: Seagate Data Platform Engineer
-
+Target:Manufacturing intelligence Platform
  License
 MIT License - see LICENSE for details
 
